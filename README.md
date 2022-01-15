@@ -10,7 +10,7 @@ Sansomware is a small project built for demo purposes. Want to show your friends
 As shown in the image above, Sansomware does the following things:
 - It opens a popup window in WanaCry style with a note, a countdown timer and a ransom BitCoin-like address
 - The wallpaper of the system is changed to a super hackery wallpaper
-- Files in the same directory as the binary will have their extensions changed to .sansom
+- Files in the same directory as the binary will have their extensions changed to .sansom (so put it in a demo folder)
 
 ## Possible tweaks
 
