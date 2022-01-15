@@ -18,4 +18,4 @@ The text of the note is saved in `Properties/note.txt` and can be adjusted to so
 
 ## Please note
 
-It's really harmless. If you use this in other environments than security awareness sessions, profit is 0.
+It's really harmless. If you use this in other environments than security awareness sessions, profit is 0. Also: using the release instead of building the program yourself is at your own risk.
